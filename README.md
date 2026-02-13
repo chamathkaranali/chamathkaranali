@@ -42,7 +42,7 @@ I'm a passionate developer who loves building cool things and learning new techn
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chamath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chamathka-ranali-460a97245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chamath" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chamath" height="30" width="40" /></a>
 </p>
 

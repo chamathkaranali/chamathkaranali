@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Chamathka!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chamathka%20Ranali&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red=200&section=header&text=Chamathka%20Ranali&fontSize=70" />
 </p>
 
 ### 💫 About Me

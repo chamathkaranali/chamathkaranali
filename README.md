@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Chamathka!
+# 👋 Hello World, I'm Ranali!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=red=200&section=header&text=Chamathka%20Ranali&fontSize=70" />

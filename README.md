@@ -7,7 +7,6 @@
 ### 💫 About Me
 I'm a passionate developer who loves building cool things and learning new technologies.
 
-* 🔭 **Working on:** [Oya karana project eka methana danna]
 * 👯 **Collaborating on:** Open source projects and creative web apps.
 * 🤝 **Looking for help with:** Advanced Backend Systems & Cloud Architecture.
 * 🪴 **Learning:** AI/ML and Advanced DevOps.

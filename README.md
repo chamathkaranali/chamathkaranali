@@ -17,7 +17,7 @@ I'm a passionate developer who loves building cool things and learning new techn
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,git,github,vscode,tailwind,ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,angular,git,github,vscode,tailwind,ts" />
 </p>
 
 ---
